@@ -1,0 +1,129 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+
+}
+body{
+font-family: 'Lato', sans-serif;
+background-color:#cec8c8;
+}
+a{
+
+text-decoration: none;
+
+display: block;
+
+color: white;
+
+padding: 10px;
+}
+img{
+
+padding: 10px;
+}
+
+.project-section {
+}
+
+.container {width: 1200px;margin: 0 auto;overflow: hidden;}
+
+.service-section {padding: 10px 0;}
+
+.service {text-align: center;padding: 10px 0;}
+.service h1{
+
+font-size: 1.5em;
+
+padding: 5px 0;
+}
+.service p {
+
+}
+.icon {
+
+width: 33.33%;
+
+float: left;
+
+padding: 100px;
+}
+.icon p{
+
+}
+
+.community-section {padding: 10px 0;/* background: #0c0c2d; */color: white;}
+
+.community {width: 33.33%;float: left;background-color: #0a0a25;padding: 30px;text-align: center;}
+.community a{
+
+}
+span{
+	padding: 10px;
+}
+
+.partner-section {padding: 50px 0;}
+
+.partner {
+
+width: 50%;
+
+float: left;
+
+padding: 10px 0;
+
+/* text-align: center; */
+}
+.partner h3{
+
+padding: 10px;
+
+font-size: 1.3em;
+
+text-decoration: none;
+
+text-transform: uppercase;
+}
+.partner p {
+
+padding: 10px;
+}
+.partner a{
+	padding:10px;
+	border: 1px solid #030310;
+	color: #6b6be2;
+	width: 120px;
+	height: 40px;
+	background-color: black;
+	margin-left:20px
+}
+
+
+.logo {
+
+width: 50%;
+
+float: inherit;
+
+/* background-color: white; */
+
+text-align: center;
+
+padding: 10px;
+}
+.logo h5{
+
+
+}
+
+.about-section {
+}
+
+.about {width: 25%;float: left;text-align: center;}
+.about p{
+
+}
